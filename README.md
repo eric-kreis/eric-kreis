@@ -1,4 +1,1 @@
-- Hi, I’m @eric-kreis
-- I’m interested in programming
-- I’m currently studying at Trybe.
-- I’m looking to collaborate on JS, HTML and CSS projects...
+![Snake animation](https://github.com/eric-kreis)
