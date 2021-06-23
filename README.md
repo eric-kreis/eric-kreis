@@ -17,6 +17,8 @@
 <div> 
   <a href="https://www.linkedin.com/in/eric-alfinito-kreis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/eric-kreis/eric-kreis/blob/output/github-contribution-grid-snake.svg)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/eric-kreis/eric-kreis/output/github-contribution-grid-snake.svg)
+
+  _generated with [Platane/snk](https://github.com/Platane/snk)_
  
 </div>
