@@ -2,7 +2,7 @@
  I’m currently studing at [Trybe](https://www.betrybe.com/).
  <div>
   <a href="https://github.com/eric-kreis">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eric-kreis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" margin-rigt="1em"src="https://github-readme-stats.vercel.app/api?username=eric-kreis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-kreis&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
