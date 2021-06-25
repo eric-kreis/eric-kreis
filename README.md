@@ -1,4 +1,5 @@
 ## Hello, I'm Eric Kreis.
+ I’m currently studing at [Trybe](https://www.betrybe.com/).
  <div>
   <a href="https://github.com/eric-kreis">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eric-kreis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -15,7 +16,7 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/eric-alfinito-kreis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/eric-alfinito-kreis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/eric-kreis/eric-kreis/blob/output/github-contribution-grid-snake.svg)
 </div>
