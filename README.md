@@ -4,6 +4,7 @@
   <a href="https://github.com/eric-kreis">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eric-kreis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+ <img height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-kreis&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=tokyonight" />
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
