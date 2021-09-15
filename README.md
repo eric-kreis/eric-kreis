@@ -1,8 +1,6 @@
 <div> 
-  <a href="https://www.linkedin.com/in/eric-alfinito-kreis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
- <h1 align="center">Hello, I'm Eric Kreis.</h1>
-<h3 align="center"> I'm currently studing at [Trybe](https://www.betrybe.com/).</h3>
+<h1 align="center">Hello, I'm Eric Kreis.</h1>
+  <h3 align="center"> I'm currently studing at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.</h3>
 
  <div style="display: flex">
   <a href="https://github.com/eric-kreis">
