@@ -1,6 +1,6 @@
 ## Hello, I'm Eric Kreis.
  I’m currently studing at [Trybe](https://www.betrybe.com/).
- <div margin="auto">
+ <div style="display: inline_block" margin="auto">
   <a href="https://github.com/eric-kreis" align="center">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=eric-kreis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-kreis&layout=compact&langs_count=7&theme=tokyonight"/>
