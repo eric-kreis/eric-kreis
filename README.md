@@ -1,8 +1,7 @@
-<div> 
 <h1 align="center">Hello, I'm Eric Kreis</h1>
-  <h3 align="center"> I'm currently studing at <a href="https://www.betrybe.com/" target="_blank">Trybe</a></h3>
+<h3 align="center"> I'm currently studing at <a href="https://www.betrybe.com/" target="_blank">Trybe</a></h3>
 
- <div style="display: flex">
+<div style="display: flex">
   <a href="https://github.com/eric-kreis">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=eric-kreis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="179em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-kreis&layout=compact&langs_count=7&theme=tokyonight"/>
