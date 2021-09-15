@@ -1,6 +1,6 @@
 <div> 
-<h1 align="center">Hello, I'm Eric Kreis.</h1>
-  <h3 align="center"> I'm currently studing at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.</h3>
+<h1 align="center">Hello, I'm Eric Kreis</h1>
+  <h3 align="center"> I'm currently studing at <a href="https://www.betrybe.com/" target="_blank">Trybe</a></h3>
 
  <div style="display: flex">
   <a href="https://github.com/eric-kreis">
