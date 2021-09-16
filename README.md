@@ -9,7 +9,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div style="display: flex; justify-content: space-between" width: "100%">
- <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -49,7 +48,6 @@
   <a href="https://slack.com/intl/pt-br" target="_blank">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
   </a>
- </p>
 </div>
  
 <h3 align="center">Connect with me:</h3>
