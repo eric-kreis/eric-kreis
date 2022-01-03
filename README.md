@@ -9,9 +9,6 @@
 
 <h3 align="center">Main Languages and Tools:</h3>
 <div align="center" width: "100%">
-  <a href="https://www.markdownguide.org/">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
