@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Eric Kreis</h1>
-<h3 align="center"> I'm currently studing at <a href="https://www.betrybe.com/" target="_blank">Trybe</a></h3>
+<h3 align="center">I'm a Fullstack WEB developer, currently studying @ <a href="https://www.betrybe.com/">Trybe</a></h3>
 
 <div>
   <a href="https://github.com/eric-kreis">
