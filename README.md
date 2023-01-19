@@ -1,4 +1,4 @@
-<h3 align="center">Software Engineer, currently working @ <a href="https://www.trakto.io/">Trakto</a></h3>
+<h3 align="center">Software Engineer, currently working @<a href="https://www.trakto.io/">Trakto</a></h3>
 
 <div>
   <a href="https://github.com/eric-kreis">
