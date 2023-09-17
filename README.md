@@ -6,7 +6,7 @@
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-kreis&layout=compact&langs_count=7&theme=tokyonight"/>
 </div> -->
 
-<h3 align="center">Main Languages and Tools:</h3>
+<!--  <h3 align="center">Main Languages and Tools:</h3>
 <div align="center" width: "100%">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -50,7 +50,7 @@
   <a href="https://www.linux.org">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-</div>
+</div> -->
 
 <hr></hr>
 <h3 align="center">Connect with me!</h3>
