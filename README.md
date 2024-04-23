@@ -10,7 +10,7 @@ When I'm not coding, you might find me exploring new tech trends, playing video 
 - 🖥️ **Frontend**: React.js, Next.js, React Native
 - ⚙️ **Backend**: Node.js, NestJS, Django, FastAPI
 - 💽 **Databases**: PostgreSQL, MongoDB, Redis
-- 🔗 **DevOps**: Docker, Kubernetes, CI/CD, GCP
+- 🔗 **DevOps**: Docker, Kubernetes, CI/CD
 - 🧠 **Concepts**: MVC, Microservices, Cloud Computing, Agile
 
 ## Recent Achievements
