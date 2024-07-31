@@ -1,9 +1,9 @@
 # Hi there, I'm Eric! 👋
 
 ## About Me
-I'm a Backend Developer living in the vibrant city of Montreal, Canada. I am passionate about crafting software solutions that meet users' needs and exceed their expectations. Currently, I'm enhancing educational solutions part-time at Scholars of Finance, a beautiful non-profit organization.
+I'm a Backend Developer living in the vibrant city of Montreal, Canada. I am passionate about crafting software solutions that meet users' needs and exceed their expectations. Currently, I'm enhancing educational solutions at Scholars of Finance, a beautiful non-profit organization.
 
-When I'm not coding, I might explore new tech trends, play video games, or listen to music.
+When I'm not coding, I might explore new tech trends, play video games, listen to music, and, of course, think of ways to change the world :)
 
 ## Tech Stack
 - 🔧 **Languages**: JavaScript, TypeScript, Python, and a little bit of Java, Go, and CSharp
